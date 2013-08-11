@@ -10,11 +10,14 @@ HELP_FILES = \
 	collections.page \
 	create.page \
 	delete.page \
+	introduction.page \
 	formatting.page \
 	search.page \
+	rename.page \
 	share.page \
 	index.page \
 	legal.xml
 
 HELP_MEDIA = \
-	figures/bijiben-note.png
+	figures/bijiben-icon.png \
+	figures/notes-note.png
